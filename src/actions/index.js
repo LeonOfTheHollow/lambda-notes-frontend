@@ -7,7 +7,7 @@ export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
 export const LOGIN_FAIL = "LOGIN_FAIL";
 export const NOTES_RETRIEVED = "NOTES_RETRIEVED";
 
-const ROOT_URL = "http://localhost:3030";
+const ROOT_URL = "https://infinite-fortress-81309.herokuapp.com";
 
 let nextNoteID = 0;
 
